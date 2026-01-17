@@ -16,7 +16,7 @@ This project uses a custom-coded color scheme directly in the Dart file:
 
 ## Screen shot 
 
-![Uploading calculator.png…]()
+<img width="1918" height="1198" alt="calculator" src="https://github.com/user-attachments/assets/103762fe-3f65-4d1f-ba94-b83c175e61d8" />
 
 
 ## ✨ Features
