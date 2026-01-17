@@ -79,11 +79,6 @@ Feel free to fork this project and add features like:
 
 ---
 
-## 📝 License
-
-This project is open-source and available under the **MIT License**.
-
----
 
 **Created with ❤️ using Flutter**
 
