@@ -31,24 +31,20 @@ This project uses a custom-coded color scheme directly in the Dart file:
 
 ---
 
-## 🛠️ How to Use
 
-1. **Install Flutter:** Ensure you have the [Flutter SDK](https://docs.flutter.dev/get-started/install) installed.
-2. **Create Project:** ```bash
-flutter create my_calculator
-```
+## How to Run the Project
 
-```
+Install Flutter: Ensure you have the Flutter SDK installed.
 
+Create Project: bash flutter create my_calculator
 
-3. **Replace Code:** Copy the code from my script and paste it into your `lib/main.dart`.
-4. **Run:**
-```bash
+Replace Code: Copy the code from my script and paste it into your lib/main.dart.
+
+## Run:
+
+bash
+
 flutter run
-
-```
-
-
 
 ---
 
