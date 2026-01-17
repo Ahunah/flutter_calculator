@@ -1,7 +1,3 @@
-Understood! I will create a professional, colorful, and organized **README.md** file specifically for the **exact code you provided** (the one with the purple/lavender theme).
-
----
-
 # 🎨 Pastel Modern Calculator
 
 A clean, aesthetic, and functional calculator app built using **Flutter**. This project uses a unique purple-toned color palette and a modern flat design to provide a pleasant user experience.
@@ -91,4 +87,4 @@ This project is open-source and available under the **MIT License**.
 
 **Created with ❤️ using Flutter**
 
-Would you like me to create a **GIF preview** of the app or help you set up a **GitHub Repository** for this?
+
